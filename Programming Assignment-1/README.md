@@ -21,16 +21,6 @@ depending on the value of the discriminant.
 ## Example Equation
 ax^2 + bx + c = 0
 
-## How to Compile
-```bash
-gcc quadratic_solver.c -o quadratic_solver -lm
-```
-
-## How to Run
-```bash
-./quadratic_solver
-```
-
 ## Topics Covered
 - Functions
 - Conditional statements
