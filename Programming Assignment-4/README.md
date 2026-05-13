@@ -34,10 +34,6 @@ for multiple data sets.
 ## Mathematical Concept
 
 ### Slope-Intercept Equation
-
-::contentReference[oaicite:0]{index=0}
-
-
 ---
 
 ## Features
